@@ -1,0 +1,16 @@
+#card-grp{
+  display: flex;
+}
+#card-img{
+  height: 30%;
+  border-image:black solid 10px;
+}
+#fact-sheet{
+  justify-content: center;
+  max-width: 15%;
+  margin: 4em;
+  box-shadow: rgba(47, 48, 48, 0.726) 5px 5px 10px;
+  background: linear-gradient(45deg, rgb(75, 75, 75),#eee,rgb(75, 75, 75));
+}
+
+
